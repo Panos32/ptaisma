@@ -229,7 +229,6 @@ public class City
 
 
 
-    //Getter for each variables
 
     public int Offer { get; private set; }
 
